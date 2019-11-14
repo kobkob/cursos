@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cidade","c":"Lampada","l":"acenderLampada()"},{"p":"cidade","c":"Lampada","l":"apagarLampada()"},{"p":"cidade","c":"Edificio","l":"Edificio(Lampada)","url":"%3Cinit%3E(cidade.Lampada)"},{"p":"cidade","c":"Lampada","l":"Lampada()","url":"%3Cinit%3E()"},{"p":"cidade","c":"Edificio","l":"main(String[])","url":"main(java.lang.String[])"}]
