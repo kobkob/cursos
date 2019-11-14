@@ -43,28 +43,28 @@ Introduce complementary areas of research and study
 
 1. Introdução  
 
-- Leituras: September 23 
-- Teste: September 27
+- Leituras: Uma semana
+- Teste: 1 hora
 
 2. Gerência de serviços de TI
 
-- Leituras: September 30 
-- Teste: October 4
+- Leituras: Uma semana
+- Teste: 1 hora
 
 3. Princípios do ITIL
 
-- Leituras: October 7
-- Teste: October 11
+- Leituras: Uma semana
+- Teste: 1 hora
 
 4. Práticas em ITIL
 
-- Leituras: October 14 
-- Teste:October 18
+- Leituras: Uma semana
+- Teste: 1 hora
 
 5. Indo além
 
-- Leituras: October 21 
-- Teste: October 25
+- Leituras: Uma semana
+- Teste: 1 hora
 
 
 ================================================================
