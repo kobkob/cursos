@@ -24,12 +24,9 @@ O dinheiro do projeto virá de:
 2. Coordenação:
 
 * Portal-BR
-  - Dan: Presidente
-  - Marcio: Vice 
-
+  
 * Kobkob
-  - Filipo: Presidente
-  - Eduardo Stefani: Vice
+ 
 
 3. Organização:
 
