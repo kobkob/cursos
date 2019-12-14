@@ -2,4 +2,4 @@
 
 [Basic Perl][basic-perl]
 
-[basic-perl]: ./antigo/PerlBasico.pdf
+[basic-perl]: https://github.com/kobkob/cursos/raw/master/perl/antigo/PerlBasico.pdf
