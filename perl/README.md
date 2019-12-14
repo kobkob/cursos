@@ -1,3 +1,5 @@
 # Perl
 
-[Basic Perl][./antigo/PerlBasico.pdf]
+[Basic Perl][basic-perl]
+
+[basic-perl]: ./antigo/PerlBasico.pdf
