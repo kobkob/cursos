@@ -1,3 +1,3 @@
 # cursos
 Cursos da universidade hacker, em Português.
-[open in google cloud shell](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/kobkob/cursos.git&page=editor&tutorial=tutorial.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fkobkob%2Fcursos&cloudshell_tutorial=tutorial.md)
